@@ -19,3 +19,5 @@ Kelas : 2A TRPL
 ![Screenshot (13)](https://github.com/user-attachments/assets/7060ef9e-82f1-4f66-9371-aae06d92eb0f)
 
 ![Screenshot (14)](https://github.com/user-attachments/assets/1b956e3f-b060-474d-a87e-fbbe27c48b36)
+
+![Screenshot (15)](https://github.com/user-attachments/assets/eba522b4-984a-40bf-af3e-4696011d1ee1)
