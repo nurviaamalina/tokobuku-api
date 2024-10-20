@@ -97,5 +97,17 @@ class BukuController extends Controller
             'message' => 'Buku berhasil dihapus'
         ]);
     }
+public function getByKategori($kategori_id)
+{ 
+    $bukus = Buku::where('kategori_id', $kategori_id)->get();
+
+    if ($bukus->isEmpty()) {
+        return response()->json([
+            'message' => 'No books found for the given category'
+        ], 404);
+    }
+
+    return response()->json($bukus, 200);
+}
 
 }
